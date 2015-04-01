@@ -37,7 +37,7 @@ OUT;
 
 // Proxy description text
 $themeReplace['description'] = <<<OUT
-   <p>欢迎访问网页代理~~fighting！</p>
+   <p>欢迎来到DoDoYun提供的网页代理~~fighting！</p>
 OUT;
 
 // Ad location above the form on the index page
